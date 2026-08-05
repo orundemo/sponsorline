@@ -3,5 +3,6 @@
   "productName": "SponsorLine",
   "productDomain": "sponsorline.dev",
   "workersDevSubdomain": "orundemo",
-  "orunWorkspace": "org_66042fc5455f4f439c77f6b9c58bee87"
+  "orunWorkspace": "org_66042fc5455f4f439c77f6b9c58bee87",
+  "orunWorkspaceSlug": "sponsorline"
 }
